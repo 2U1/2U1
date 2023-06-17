@@ -1,4 +1,6 @@
-### Welcome to my GitHub 👋
+
+<div align="center">
+<h3 align="center">Welcome to my GitHub 👋</h3>
 
 
 🔭 I’m currently working at Korea University as a master's degree student <br>
@@ -16,4 +18,4 @@
 
 ![2U1's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&theme=radical)
 
-
+</div>
