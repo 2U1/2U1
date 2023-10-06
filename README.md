@@ -7,7 +7,7 @@
 🌱 I’m currently interested in NLP and CV <br>
 
 
-<h3>📫 Publication<h3>
+<h3 align="center">📫 Publication</h3>
 ```
   Y. Lee, M. Oh, H. Kim and S. Lee, "Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," 2023 International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, 2023, pp. 01-08, doi: 10.1109/IJCNN54540.2023.10191689.
 ```
