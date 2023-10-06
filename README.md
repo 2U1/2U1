@@ -4,7 +4,7 @@
 
 
 🔭 I graduated Korea University as a master's degree student <br>
-🌱 I’m currently interested in NLP and CV <br>
+🌱 I’m currently interested in NLP and CV <be>
 
 
 <h3 align="center">📫 Publication</h3>
@@ -24,5 +24,3 @@
 ![2U1's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&theme=radical)
 
 </div>
-
-How to reach me: john119@korea.ac.kr
