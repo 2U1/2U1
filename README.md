@@ -3,9 +3,14 @@
 <h3 align="center">Welcome to my GitHub 👋</h3>
 
 
-🔭 I’m currently working at Korea University as a master's degree student <br>
+🔭 I graduated Korea University as a master's degree student <br>
 🌱 I’m currently interested in NLP and CV <br>
-📫 How to reach me: john119@korea.ac.kr <be>
+
+
+<h3>📫 Publication<h3>
+```
+  Y. Lee, M. Oh, H. Kim and S. Lee, "Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," 2023 International Joint Conference on Neural Networks (IJCNN), Gold Coast, Australia, 2023, pp. 01-08, doi: 10.1109/IJCNN54540.2023.10191689.
+```
 
 <h3 align="center">:clipboard: Tech Stacks :clipboard:</h3>
 <p align="center"> I've used at least once </p>
@@ -19,3 +24,5 @@
 ![2U1's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&theme=radical)
 
 </div>
+
+How to reach me: john119@korea.ac.kr
