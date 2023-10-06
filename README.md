@@ -8,7 +8,9 @@
 
 
 <h3 align="center">📫 Publication</h3>
-<p>Y. Lee, M. Oh, H. Kim and S. Lee, "Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," 2023 International Joint Conference on Neural Networks (IJCNN), 2023, pp. 01-08</p>
+<ul>
+  <li>Y. Lee, M. Oh, H. Kim and S. Lee, "Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," 2023 International Joint Conference on Neural Networks (IJCNN), 2023, pp. 01-08</li>
+</ul>
 
 <h3 align="center">:clipboard: Tech Stacks :clipboard:</h3>
 <p align="center"> I've used at least once </p>
