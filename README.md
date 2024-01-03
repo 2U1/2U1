@@ -3,8 +3,8 @@
 <h3 align="center">Welcome to my GitHub 👋</h3>
 
 
-🔭 I graduated Korea University as a master's degree student <br>
-🌱 I’m currently interested in NLP and CV <be>
+I'm a AI developer working in Laon Road<br
+I’m currently interested in Vision-Language models <be>
 
 
 <h3 align="center">📫 Publication</h3>
