@@ -3,7 +3,7 @@
 <h3 align="center">Welcome to my GitHub 👋</h3>
 
 
-I'm a AI developer working in Laon Road<br
+I'm a AI developer working in Laon Road<br>
 I’m currently interested in Vision-Language models <be>
 
 
