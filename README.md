@@ -10,7 +10,7 @@ I’m currently interested in Vision-Language models <be>
 <h3 align="center">📫 Publication</h3>
 <ul>
   <li>Y. Lee, M. Oh, H. Kim and S. Lee, "Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," 2023 International Joint Conference on Neural Networks (IJCNN), 2023, pp. 01-08</li>
-  <li>Y. Lee, Y.Lee, S. Lee, "LC-MSM: Language-Conditioned Masked Segmentation Model for unsupervised domain adaptation," 2023, Pattern Recognition, pp. 110201</li>
+  <li>K. Lee, Y. Lee, S. Lee, "LC-MSM: Language-Conditioned Masked Segmentation Model for unsupervised domain adaptation," 2023, Pattern Recognition, pp. 110201</li>
 </ul>
 
 <h3 align="center">:clipboard: Tech Stacks :clipboard:</h3>
