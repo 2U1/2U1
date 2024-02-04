@@ -14,7 +14,7 @@ I’m currently interested in Vision-Language models <be>
   <li>Y. Lee, G. Eun, S. Lee, S. Jin and J. Lee, "Text-Guiding with Cross-Attention for Unsupervised Domain Adaptive Semantic Segmentation," Korea Software Congress (KSC), 2023</li>
 </ul>
 
-<h3 align="center">:clipboard: Tech Stacks :clipboard:</h3>
+<h3 align="center">Tech Stacks</h3>
 <p align="center"> I've used at least once </p>
 
 <p align="center"> 
