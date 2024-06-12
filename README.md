@@ -1,12 +1,5 @@
 
 <div align="center">
-<h3 align="center">Welcome to my GitHub </h3>
-
-
-I'm a AI Engineer working in Laon Road<br>
-I’m currently interested in Vision-Language models <be>
-
-
 <h3 align="center"> Publication</h3>
 <ul>
   <li>Y. Lee, M. Oh, H. Kim and S. Lee, "Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," International Joint Conference on Neural Networks (IJCNN), 2023, pp. 01-08</li>
