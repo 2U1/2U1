@@ -1,7 +1,7 @@
-## :mag_right: Profile
+## :mag_right: Introduction
 
 - I'm a AI Engineer interested in Multi-modal LLMs
-- I'm studying AI agents.
+- I'm currently studying AI agents.
 
 ## :books: Publications
 
@@ -14,7 +14,7 @@
 
 ## :office: Work Experience
 
-- LaonRoad (2024.01 ~ Current)
+- **LaonRoad** (2024.01 ~ Current)
 
 ## :computer: Tech Stacks
 
