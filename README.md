@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"> <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
+## :bar_chart: Stats
 ![2U1's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&theme=radical)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2U1)](https://github.com/ryo-ma/github-profile-trophy)
