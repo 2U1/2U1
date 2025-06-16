@@ -27,6 +27,6 @@
 </p>
 
 ## :bar_chart: Stats
-[![2U1's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![2U1's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2U1)](https://github.com/ryo-ma/github-profile-trophy)
