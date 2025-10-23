@@ -15,7 +15,8 @@
 
 ## :office: Work Experience
 
-- **LaonRoad** (2024.01 ~ Current)
+- **Emissary** (2025.11 ~ Current)
+- **LaonRoad** (2024.01 ~ 2025.10)
 
 ## :computer: Tech Stacks
 
