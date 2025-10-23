@@ -2,7 +2,6 @@
 
 - Master's degree in Artificial Intelligence from Korea University
 - I'm a AI Engineer interested in Multi-modal LLMs
-- I'm currently studying AI agents.
 
 ## :books: Publications
 
