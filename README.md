@@ -27,4 +27,4 @@
 </p>
 
 ## :bar_chart: Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=2U1)](https://github.com/ryo-ma/github-profile-trophy)
+![Yuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&hide=contribs,prs)
