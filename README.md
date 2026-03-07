@@ -27,4 +27,4 @@
 </p>
 
 ## :bar_chart: Stats
-![Yuwon's GitHub stats](https://github-readme-stats-ten-omega-35.vercel.app/api?username=2U1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true)
+![GitHub stats](https://github-readme-stats-ten-omega-35.vercel.app/api?username=2U1&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=transparent)
