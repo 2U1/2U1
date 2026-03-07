@@ -27,4 +27,4 @@
 </p>
 
 ## :bar_chart: Stats
-![Yuwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=2U1&hide=contribs,prs)
+![Yuwon's GitHub stats]([https://github-readme-stats.vercel.app/api?username=2U1&hide=contribs,prs](https://github-readme-stats.vercel.app/api?username=2U1&show_icons=true&count_private=true&include_all_commits=true))
